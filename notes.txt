@@ -1,0 +1,12 @@
+# StartUp
+1. Nagivate to project folder
+2. Activate the virtual environmnet: source env/Scripts/activate
+3. Nagivate to the django project folder ('stocks' in this case)
+3. Start the server: python manage.py runserver
+
+API Token: pk_f15d34a5053e4f6dbed12641c9d08f4f
+
+In Django, database stuff is called "models"
+
+# Current Step
+37. Delete Buttons
